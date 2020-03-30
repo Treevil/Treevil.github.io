@@ -1,5 +1,5 @@
 site: TLJ
-url: 
+url: https://treevil.github.io/
 author: Trevor
 author:
   name: Trevor
@@ -25,8 +25,9 @@ social:
   
 permalink: pretty
 
+
 disqus:
-  name: "your disqus username" # required
+  name: "" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 baseurl:             ""
@@ -89,3 +90,8 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+exclude:
+- ".gitignore"
+- ".jekyll-cache"
+- readme.md
