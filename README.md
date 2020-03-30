@@ -8,5 +8,5 @@ Spero che possa essere utile a qualcun'altro oltre me. :smile:
 ## Built With
 
 * [Jekyll](https://jekyllrb.com/)
-* [Colorie][(https://maven.apache.org/)
+* [Colorie](https://maven.apache.org/)
 * [github-pages](https://pages.github.com/)
