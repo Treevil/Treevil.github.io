@@ -3,20 +3,12 @@ layout: page
 title: About
 ---
 
-## Colorie - Single column blog and portfolio Jekyll theme 
+## TLJ - Trevor Learning Journal
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+Questo è un blog dove racchiudo tutto quello che studio sul mondo della programmazione web e non solo. 
+Guardare la lista di tag per farsi un idea migliore. 
+Attualmente il sito è in construzione.
 
-### Key features
+### Seconod paragrafo 
 
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+Quando mi verrà qualcosa di intelligente da aggiungere lo metterò qui sotto. 
