@@ -1,5 +1,12 @@
-## Treevil - Learning Journal Blog
+# Treevil - Learning Journal Blog
 
-Questo repository è pensato per hostare il mio blog.
+Questo repository è un blog creato con Github pages, Jekyll e il tema Colorie (vedi di può sotto )
+Il suo scopo è essere un repository pubblico dove condivido tutto quello che imparo nel mondo dello sviluppo Web.
 
-Basato su Colorie e Jekyll
+Spero che possa essere utile a qualcun'altro oltre me. :smile:
+
+## Built With
+
+* [Jekyll](https://jekyllrb.com/)
+* [Colorie][(https://maven.apache.org/]
+* [github-pages](https://pages.github.com/)
