@@ -5,6 +5,11 @@ Il suo scopo è essere un repository pubblico dove condivido tutto quello che im
 
 Spero che possa essere utile a qualcun'altro oltre me. :smile:
 
+## Install
+
+- bundle install
+- bundle exec jekyll serve --watch --force_polling
+
 ## Built With
 
 * [Jekyll](https://jekyllrb.com/)
