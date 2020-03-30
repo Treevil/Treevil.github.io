@@ -49,6 +49,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - disqus-for-jekyll
+  - jemoji
 
 collections:
   pages:
