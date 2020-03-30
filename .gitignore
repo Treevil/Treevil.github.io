@@ -7,3 +7,4 @@ _drafts
 _site
 .DS_Store
 .git
+.jekyll-metadata
