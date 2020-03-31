@@ -7,5 +7,10 @@ layout: default
   <h1>{{ page.title }}</h1>
   <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }} &middot; {{ page.category }}</time>
   <div class="meta">
+    <div class="summary-container">
+      <p><b>Sommario: </b>{{page.summary}}</p>
+    </div>
+  </div>
+  <div class="meta">
   {{ content }}
 </article>
